@@ -34,6 +34,12 @@ Porém, as linguagens que serão melhores avaliadas pela Linear serão:
  - <img src="https://img.shields.io/badge/csharp-informational?logo=C#"></img>
  - <img src="https://img.shields.io/badge/java-informational?logo=Java"></img>
  - <img src="https://img.shields.io/badge/node.js-informational?logo=Node.JS"></img>
+
+## Style Guide Linguagens
+ - <a href="https://github.com/acessolinear/visual-basic-6-style-guide">Visual Basic 6</a>
+ - <a href="https://github.com/acessolinear/csharp-style-guide">CSharp</a>
+ - <a href="https://github.com/acessolinear/java-style-guide">Java</a>
+ - <a href="https://github.com/acessolinear/node-style-guide">Nodejs</a>
  
 ## O que iremos avaliar
  
