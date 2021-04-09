@@ -138,13 +138,13 @@ Bons estudos <3
 
 ## :calendar: Entrega
 
-🥇 Após concluir a execução do teste, grave um pequeno video mostrando a aplicação em funcionamento e uma breve explicação do código 😁. 
+🥇 Após concluir a execução do teste, grave um pequeno video (Pode ser o próprio celular filmando a tela do PC) mostrando a aplicação em funcionamento e uma breve explicação do código e sua estrutura. 😁
 
 Sinta-se a vontade para escolher qual plataforma deseja compartilhar o link do vídeo 📼. Sugerimos GoogleDrive ou OneDrive. 
 
 Esse desafio deve ser entregue por email (respondendo o e-mail enviado pela linear), na qual ele deve conter o link do seu repositório do Git Hub, com o projeto.
 
-Não se esqueça de montar um arquivo README.MD incrível para apresentação do seu projeto, nos explicando as tecnologias usadas, dependências do projeto e como subir a sua aplicação (script do banco sql por exemplo). 😉
+Não se esqueça de montar um arquivo README.MD incrível para apresentação do seu projeto, nos explicando as tecnologias usadas, dependências do projeto e principalmente como subir a sua aplicação (script do banco sql por exemplo). 😉
 
 Caso precise de uma ajuda em como montar um README.MD nos moldes convencionais, dê uma olhada neste perfil.
 (https://github.com/thiagokrathos/go-restaurant-mobile)
