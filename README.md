@@ -41,12 +41,6 @@ Porém, as linguagens que serão melhores avaliadas pela Linear serão:
  - <a href="https://github.com/acessolinear/java-style-guide">Java</a>
  - <a href="https://github.com/acessolinear/node-style-guide">Nodejs</a>
  
-## O que iremos avaliar
- 
-Iremos observar conceitos como: 
-
-abstração, Clean Code, utilização de padrões de projeto, escalabilidade do software, domínio da linguagem, tratamento de erros / exceções, separação em camadas (MVC), dentre outro aspectos que tangem a um desenvolvimento de software.
-
 O banco de dados a ser utilizado, precisa ser o <img src="https://img.shields.io/badge/mysql@5.7.xx-informational?logo=Mysql"></img>. Você pode baixa-lo no link abaixo.
 (https://dev.mysql.com/downloads/windows/installer/5.7.html)
 
